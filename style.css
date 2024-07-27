@@ -99,7 +99,7 @@ body{
 
 .showcase-area{
     height: 50vh;
-    background: url(../image/header-image2.jpg);
+    background: url(header-image2.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
